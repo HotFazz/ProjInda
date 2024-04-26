@@ -14,6 +14,7 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 
+
 def main():
     print("Welcome to the Factorial Calculator!")
     number = get_integer_input("Enter a non-negative integer to compute the factorial: ")
@@ -22,3 +23,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Hej jag heter fleix
+
